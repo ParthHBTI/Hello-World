@@ -1,0 +1,29 @@
+{
+    
+    "People" : {
+        "Person1" : {
+            "Name" : "Kamlesh",
+            "Age" : "22"
+        },
+        "Person2" : {
+            "Name" : "Hemendra",
+            "Age" : "23"
+        },
+
+        "Person3" : {
+            "Name" : "Parth",
+            "Age" : "22"
+        },
+
+        "Person4" : {
+            "Name" : "Nishu",
+            "Age" : "22"
+        },
+
+        "Person5" : {
+            "Name" : "Tanu",
+            "Age" : "8"
+        },
+
+    }
+}
